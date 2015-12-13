@@ -1,4 +1,4 @@
-name: solar
+name: spirodraw
 version: 1.0.1
 description: The Spirodraw sample from DartPad
 dependencies:
